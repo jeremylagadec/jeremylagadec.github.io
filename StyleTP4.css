@@ -1,0 +1,47 @@
+body{
+    background-image: url(/Users/lagadecjeremy1/Downloads/traf2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position-y: 200px;
+}
+
+h1{
+    color: white;
+    margin-right: auto;
+}
+
+.pages{
+    color: white;
+    display: flex;  
+}
+.pages>div{
+    padding: 20px;
+    margin: 20px;
+    font-size: 30px;
+}
+
+header{
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+}
+
+img{
+    size: auto;
+}
+
+.botton{
+    display: flex;
+    border: solid;
+    border-color: darkgray;
+    padding: 10px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+}
+
+.center{
+    display: flex;
+}
